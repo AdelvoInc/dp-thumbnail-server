@@ -91,11 +91,14 @@ http://vmix-machine-ip:8098/
 DP Thumbnail Server is a free companion tool for [Directors Plan](https://adelvo.io/directors-plan) — professional vMix control and automation software for live productions.
 
 Directors Plan features:
+- Full automatic rundown with start times, daily/weekly repeats, or constant loop
 - Timeline-based rundown planning
 - Drag & drop vMix commands
 - Stream Deck / Companion integration
 - HTML call sheet export
+- 2 Different Logs
 - 19+ languages
+- ++++++++
 
 **[Learn more at adelvo.io/directors-plan](https://adelvo.io/directors-plan)**
 
