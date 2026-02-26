@@ -1,4 +1,4 @@
-# 🎬 DP Thumbnail Server
+# 🎬 Directors Plan Thumbnail Server
 
 **Fast vMix input thumbnail generator — replaces [vmix-snapshot-proxy](https://github.com/jeffmikels/vmix-snapshot-proxy).**
 
