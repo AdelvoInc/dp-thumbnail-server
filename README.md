@@ -4,7 +4,7 @@
 
 Generate preview thumbnails for every vMix input over the network. Single `.exe`, zero configuration, just start and go.
 
-**[⬇ Download for Windows](https://adelvo.io/directors-plan/#thumbnail-server)** · Part of [Directors Plan](https://adelvo.io/directors-plan)
+**[⬇ Download for Windows](https://github.com/AdelvoInc/dp-thumbnail-server/releases/latest/download/dp-thumbnail-server.zip)** · Part of [Directors Plan](https://adelvo.io/directors-plan)
 
 ---
 
