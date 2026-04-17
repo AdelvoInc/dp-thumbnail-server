@@ -25,7 +25,7 @@ import (
 // SnapshotInput API. ffmpeg recommended for resized thumbnails.
 //
 // https://adelvo.io/directors-plan
-// Copyright (c) 2026 Adelvo Inc.
+// Copyright (c) 2026 Adelvo.
 // ============================================================
 
 const VERSION = "3.0.0"
@@ -413,7 +413,7 @@ Works from any machine on the network — just enter the vMix computer's IP addr
 </div>
 <div class="footer">
 <a href="https://adelvo.io/directors-plan" target="_blank">Directors Plan</a> — Professional vMix Control & Automation<br>
-<a href="https://adelvo.io/directors-plan/#thumbnail-server" target="_blank">Download &amp; Info</a> · <a href="https://adelvo.io" target="_blank">Adelvo Inc.</a>
+<a href="https://adelvo.io/directors-plan/#thumbnail-server" target="_blank">Download &amp; Info</a> · <a href="https://adelvo.io" target="_blank">Adelvo</a>
 </div>
 </div>
 <div class="ctx" id="ctx">
