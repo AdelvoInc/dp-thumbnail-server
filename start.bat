@@ -1,7 +1,7 @@
 @echo off
 title DP Thumbnail Server
 echo.
-echo   DP Thumbnail Server v3 - https://adelvo.io/directors-plan
+echo   DP Thumbnail Server v1.0.0 - https://adelvo.io/directors-plan
 echo   ========================================================
 echo   Browser opens automatically. All settings in the web UI.
 echo.
