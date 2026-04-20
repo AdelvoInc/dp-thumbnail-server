@@ -8,6 +8,8 @@ Generate preview thumbnails for every vMix input over the network. Single `.exe`
 
 ---
 
+![DP Thumbnail Server](docs/screenshot.jpg)
+
 ## Why switch from vmix-snapshot-proxy?
 
 Both tools use the vMix SnapshotInput API and support all input types. The difference is speed, reliability, and how inputs are identified:
